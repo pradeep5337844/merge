@@ -1,5 +1,5 @@
 FROM ubuntu:21.04
-MAINTAINER pradeep <rakshithapapu7@gmail.com>
+MAINTAINER Rakshitha <rakshithapapu7@gmail.com>
 RUN apt-get update -y
 RUN apt-get install nginx -y
 COPY index.html /var/www/html/
