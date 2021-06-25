@@ -1,2 +1,2 @@
 Dockerfile merge=ours
-testconf/conf.xml
+testconf/conf.xml merge =ours
