@@ -1,4 +1,4 @@
-FROM ubuntu:20
+FROM ubuntu
 MAINTAINER Rakshitha <rakshithapapu7@gmail.com>
 RUN apt-get update -y
 RUN apt-get install nginx -y
