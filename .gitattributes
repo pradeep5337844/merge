@@ -1,3 +1,4 @@
 Dockerfile merge=foo
 index.html merge=foo
 testconf/* merge=foo
+.gitattributes merge=foo
