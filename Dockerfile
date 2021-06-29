@@ -1,4 +1,4 @@
-FROM ubuntu:21.0
+FROM ubuntu:21.04
 MAINTAINER Pradeep
 RUN apt-get update -y
 RUN apt-get install nginx -y
